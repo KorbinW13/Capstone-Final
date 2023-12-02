@@ -1,6 +1,6 @@
 # Capstone-Final #
- The final version of the Capstone Project 
- It also doesn't have the build as it wouldn't let me upload it
+ The final version of the Capstone Project. 
+ It also doesn't have the build as it wouldn't let me upload it.
 
 Sources:
 [Auto Layout 3D](https://assetstore.unity.com/packages/tools/utilities/auto-layout-3d-148554)
